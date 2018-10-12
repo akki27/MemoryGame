@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Memory Game</string>
+    <string name="high_scores">High Scores</string>
+
+    <string name="player_rank">Rank</string>
+    <string name="player_name">Name</string>
+    <string name="player_score">Score</string>
+
+    <string-array name="type">
+        <item>New Game</item>
+        <item>4 X 4</item>
+        <item>4 X 5</item>
+        <item>4 X 6</item>
+        <item>5 X 6</item>
+        <item>6 X 6</item>
+    </string-array>
+
+</resources>
